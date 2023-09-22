@@ -9,7 +9,7 @@
                         <p class="w-[90%] mx-auto text-center paraph opacity-0">Bonjour, je suis Victoria, une photographe passionnée par la création de souvenirs heureux et émotionnels à travers mes photos. Je suis là pour immortaliser vos moments spéciaux et les rendre encore plus mémorables.</p>
                 </div>
                 <div class="absolute top-[85%] w-full flex z-50">
-                        <NuxtLink to="/test" class="m-auto border-y-[1px] border-white text-white px-4 py-2">Voir mon travail</NuxtLink>
+                        <NuxtLink to="/works" class="m-auto border-y-[1px] border-white text-white px-4 py-2">Voir mon travail</NuxtLink>
                 </div>
                 <div class="absolute z-50 top-[93%] social text-white text-2xl w-screen flex">
                         <div class="social m-auto w-[50%] flex justify-between">
